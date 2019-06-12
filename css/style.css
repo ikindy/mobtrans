@@ -1,0 +1,26 @@
+
+.navbar-inverse{
+    
+    background-color: blue;
+}
+#active{ 
+    background-color: red;
+}
+
+a:hover{color:#fff;background-color:#080808}
+
+/*
+.navcolor{
+    background-color: black;
+}*/
+
+.navbar{
+    position:relative;
+    min-height:50px;
+    margin-bottom:20px;
+    border:1px solid transparent
+}
+.jumbotron {
+    text-align: center;
+}
+
